@@ -9,7 +9,7 @@ I'm a passionate **Android Developer** with experience building high-quality mob
 ## 🔨 Projects I'm Proud Of
 
 ### 📱 **Lifting Tracker KMP**
-📌 [Lifting Tracker - GitHub Repo](https://github.com/Alec-Dipasquale/Lifting-Tracker-KMP)  
+📌 [Lifting Tracker - GitHub Repo](https://github.com/Alec-Dipasquale/Lifting_Ledger_Showcase/tree/main)
 
 A **cross-platform workout tracking app** built with **Kotlin Multiplatform (KMP)**. It allows users to **log workouts, track progress on a calendar, and view detailed exercise insights**.  
 🛠 **Tech Stack:**  
