@@ -6,10 +6,10 @@ I'm a passionate **Android Developer** with experience building high-quality mob
 
 ---
 
-## 🔨 Projects I'm Proud Of
+## 🚀 Featured Projects
 
 ### 📱 **Lifting Tracker KMP**
-📌 [Lifting Tracker - GitHub Repo](https://github.com/Alec-Dipasquale/Lifting_Ledger_Showcase/tree/main)
+🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/Lifting_Ledger_Showcase/tree/main)
 
 A **cross-platform workout tracking app** built with **Kotlin Multiplatform (KMP)**. It allows users to **log workouts, track progress on a calendar, and view detailed exercise insights**.  
 🛠 **Tech Stack:**  
@@ -22,7 +22,7 @@ A **cross-platform workout tracking app** built with **Kotlin Multiplatform (KMP
 ---
 
 ### 🔮 **Stellar AI**
-📌 [Stellar AI - GitHub Repo](https://github.com/Alec-Dipasquale/stellarai)  
+🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/stellarai)
 
 An **AI-powered astrology assistant** that generates personalized horoscopes, fortunes, and zodiac-based predictions using **OpenAI's API**. Users can interact with an **intelligent chatbot**, receive **daily fortunes**, and explore astrological insights.  
 🛠 **Tech Stack:**  
@@ -35,19 +35,20 @@ An **AI-powered astrology assistant** that generates personalized horoscopes, fo
 ---
 
 ## 📫 How to Reach Me  
-🔹 **Email:** alecdipasquale@gmail.com
-🔹 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/alec-t-dipasquale/)]  
-🔹 **GitHub:** [Alec-Dipasquale](https://github.com/Alec-Dipasquale)  
+🔹 **Email:** alecdipasquale@gmail.com  
+🔹 **LinkedIn:** [**LinkedIn Profile**](https://www.linkedin.com/in/alec-t-dipasquale/)  
+🔹 **GitHub:** [**Alec-Dipasquale**](https://github.com/Alec-Dipasquale)  
 
 ---
 
-## 🌱 What I'm Learning
+## 📚 Currently Exploring
 - **Kotlin Multiplatform (KMP)** for cross-platform mobile development  
-- **Advanced Jetpack Compose UI patterns**  
+- **Deep diving into Advanced Jetpack Compose UI patterns**  
 - **Backend development with Ktor**  
 
 ### ⚡ Fun Fact  
-When I'm not coding, you'll probably find me **lifting weights, playing Path of Exile, or theorycrafting builds**. 💪🎮  
+When I'm not coding, you'll probably find me **lifting weights, playing Path of Exile, or theorycrafting builds**.  
+💡 *I love optimizing the most efficient PoE builds—whether it's min-maxing crit damage or designing the perfect skill rotation!* 🎮💪  
 
 ---
 
