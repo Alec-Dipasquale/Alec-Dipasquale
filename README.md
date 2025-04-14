@@ -8,48 +8,75 @@ I'm a passionate **Android Developer** with experience building high-quality mob
 
 ## 🚀 Featured Projects
 
-### 📱 **Lifting Tracker KMP**
+### 📱 **NextUp Launcher**
+🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/NextUp-Launcher-Showcase)
+
+A modern Android launcher built with Jetpack Compose featuring:
+- Real-time drag & drop with hover highlights
+- Folder creation and in-place renaming
+- Swipe-to-reveal Reddit-powered content feed
+- DataStore Proto persistence
+- Fully Compose-driven UI with event-based MVVM architecture
+
+> ✨ Showcases advanced gesture handling, state management, and Firebase content integration
+
+---
+
+### 🏋️ **Lifting Tracker KMP**
 🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/Lifting_Ledger_Showcase/tree/main)
 
-A **cross-platform workout tracking app** built with **Kotlin Multiplatform (KMP)**. It allows users to **log workouts, track progress on a calendar, and view detailed exercise insights**.  
-🛠 **Tech Stack:**  
-- Kotlin Multiplatform (KMP)  
-- Jetpack Compose  
-- MVVM Architecture  
-- Room Database  
-- Event-driven design  
+A **cross-platform workout tracker** built with **Kotlin Multiplatform (KMP)**.  
+Users can log sessions, view calendar-based logs, and search for exercises.
+
+🛠 **Stack:**
+- Kotlin Multiplatform (KMP)
+- Jetpack Compose (Android/Desktop)
+- Event-driven MVVM
+- Room Database
 
 ---
 
 ### 🔮 **Stellar AI**
 🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/stellarai)
 
-An **AI-powered astrology assistant** that generates personalized horoscopes, fortunes, and zodiac-based predictions using **OpenAI's API**. Users can interact with an **intelligent chatbot**, receive **daily fortunes**, and explore astrological insights.  
-🛠 **Tech Stack:**  
-- Jetpack Compose  
-- OpenAI API (ChatGPT)  
-- Firebase Authentication  
-- Room Database  
-- Koin for Dependency Injection  
+An **AI-powered astrology assistant** that uses OpenAI's API to generate:
+- Personalized horoscopes
+- Daily fortunes
+- Zodiac-based predictions
 
----
-
-## 📫 How to Reach Me  
-🔹 **Email:** alecdipasquale@gmail.com  
-🔹 **LinkedIn:** [**LinkedIn Profile**](https://www.linkedin.com/in/alec-t-dipasquale/)  
-🔹 **GitHub:** [**Alec-Dipasquale**](https://github.com/Alec-Dipasquale)  
+🛠 **Stack:**
+- Jetpack Compose
+- OpenAI (ChatGPT) API
+- Firebase Auth
+- Room DB
+- Koin (DI)
 
 ---
 
 ## 📚 Currently Exploring
-- **Kotlin Multiplatform (KMP)** for cross-platform mobile development  
-- **Deep diving into Advanced Jetpack Compose UI patterns**  
-- **Backend development with Ktor**  
 
-### ⚡ Fun Fact  
-When I'm not coding, you'll probably find me **lifting weights, playing Path of Exile, or theorycrafting builds**.  
-💡 *I love optimizing the most efficient PoE builds—whether it's min-maxing crit damage or designing the perfect skill rotation!* 🎮💪  
+- 🧪 **Kotlin Multiplatform** for cross-platform architecture  
+- 🎨 **Advanced Compose animations and UI patterns**  
+- 🌐 **Backend development with Ktor**  
 
 ---
 
-💡 **Want to collaborate?** Feel free to check out my repos and reach out! 🚀
+## 📫 Let's Connect
+
+- 📧 **Email:** alecdipasquale@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/alec-t-dipasquale/)  
+- 💻 [**GitHub**](https://github.com/Alec-Dipasquale)  
+
+---
+
+### ⚡ Fun Fact
+
+When I'm not coding, you’ll catch me:
+- Lifting weights 🏋️‍♂️  
+- Playing *Path of Exile* 🧙  
+- Theorycrafting the most broken builds possible 🔥  
+> 💡 *If it crits, it fits!*
+
+---
+
+⭐ *Thanks for stopping by — check out my projects and feel free to reach out if you'd like to collaborate!*
