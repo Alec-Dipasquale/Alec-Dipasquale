@@ -10,6 +10,7 @@ I'm a passionate **Android Developer** with experience building high-quality mob
 
 ### 📱 **NextUp Launcher**
 🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/NextUp-Launcher-Showcase)
+👉 [**View the NextUp Launcher Demo Website**](https://glacira-ltd.com/nextup-presentation.html)
 
 A modern Android launcher built with Jetpack Compose featuring:
 - Real-time drag & drop with hover highlights
