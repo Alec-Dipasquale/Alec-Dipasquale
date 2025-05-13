@@ -8,7 +8,7 @@ I'm a passionate **Android Developer** with experience building high-quality mob
 
 ## 🚀 Featured Projects
 
-### 📱 **NextUp Launcher**
+### 📱 **NextUp Launcher** - Solo Developed
 🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/NextUp-Launcher-Showcase)
 👉 [**View the NextUp Launcher Demo Website**](https://glacira-ltd.com/nextup-presentation.html)
 
@@ -23,7 +23,7 @@ A modern Android launcher built with Jetpack Compose featuring:
 
 ---
 
-### 🏋️ **Lifting Tracker KMP**
+### 🏋️ **Lifting Tracker KMP** - Solo Developed
 🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/Lifting_Ledger_Showcase/tree/main)
 
 A **cross-platform workout tracker** built with **Kotlin Multiplatform (KMP)**.  
@@ -37,7 +37,7 @@ Users can log sessions, view calendar-based logs, and search for exercises.
 
 ---
 
-### 🔮 **Stellar AI**
+### 🔮 **Stellar AI** - Solo Developed
 🔗 [**View on GitHub**](https://github.com/Alec-Dipasquale/stellarai)
 
 An **AI-powered astrology assistant** that uses OpenAI's API to generate:
