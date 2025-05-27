@@ -21,6 +21,10 @@ A modern Android launcher built with Jetpack Compose featuring:
 
 > ✨ Showcases advanced gesture handling, state management, and Firebase content integration
 
+<div align="center">
+  <img src="ChatGpt-Full-Preview.png" width="200"/>
+</div>
+
 ---
 
 ### 🏋️ **Lifting Tracker KMP** - Solo Developed
